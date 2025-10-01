@@ -1,0 +1,6 @@
+From: alice
+To: bob
+Subject: Hello Bob
+Date: 2025-09-30 09:47:11
+
+This is a test email from Alice to Bob.

@@ -1,0 +1,12 @@
+From: demo_gui_advanced
+To: demo_gui_advanced
+Subject: Email GUI Advanced Demo
+Date: 2025-09-30 10:07:36
+
+Đây là email demo từ giao diện GUI nâng cao!
+
+Tính năng:
+- Giao diện đẹp mắt
+- Xử lý đa luồng
+- Thống kê chi tiết
+- Xuất email

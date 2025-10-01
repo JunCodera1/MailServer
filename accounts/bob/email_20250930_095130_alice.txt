@@ -1,0 +1,6 @@
+From: alice
+To: bob
+Subject: Xin chào Bob
+Date: 2025-09-30 09:51:30
+
+Đây là email test từ Alice!

@@ -1,0 +1,5 @@
+Thank you for using this service. We hope that you will feel comfortable using our mail system. 
+This is your first email in the system. You can now send and receive emails through this platform.
+
+Best regards,
+Mail Server Team

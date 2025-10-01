@@ -1,0 +1,6 @@
+From: bob
+To: alice
+Subject: Reply to Alice
+Date: 2025-09-30 09:49:35
+
+Thanks for the email, Alice!

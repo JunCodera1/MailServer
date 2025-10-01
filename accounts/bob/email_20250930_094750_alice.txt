@@ -1,0 +1,6 @@
+From: alice
+To: bob
+Subject: Meeting Tomorrow
+Date: 2025-09-30 09:47:50
+
+Hi Bob, let's meet tomorrow at 2 PM for our project discussion.
